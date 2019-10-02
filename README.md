@@ -1,4 +1,4 @@
-# Administracion de horarios 
+# Administracion de horarios de hospital 
 Se utilizara para administrar los horarios de los usuarios, tanto de la entrada y salida 
 del personal.
 
